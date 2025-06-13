@@ -1,53 +1,88 @@
 class Solution {
 public:
-    int minCostConnectPoints(vector<vector<int>>& points) {
-        int v = points.size();
-
-        // ✅ Correct adj list declaration: vector of vectors of pairs
-        vector<vector<pair<int,int>>> adj(v);
-
-        // ✅ Build complete graph with Manhattan distances
-        for(int i = 0; i < v; i++) {
-            for(int j = i + 1; j < v; j++) {
-                int x1 = points[i][0], y1 = points[i][1];
-                int x2 = points[j][0], y2 = points[j][1];
-                int d = abs(x1 - x2) + abs(y1 - y2);
-
-                adj[i].push_back({j, d});
-                adj[j].push_back({i, d});
-            }
+    vector<int> parent;
+    vector<int> rank;
+    
+    int find (int x) {
+        if (x == parent[x]) 
+            return x;
+    
+        return parent[x] = find(parent[x]);
+    }
+    
+    void Union (int x, int y) {
+        int x_parent = find(x);
+        int y_parent = find(y);
+    
+        if (x_parent == y_parent) 
+            return;
+    
+        if(rank[x_parent] > rank[y_parent]) {
+            parent[y_parent] = x_parent;
+        } else if(rank[x_parent] < rank[y_parent]) {
+            parent[x_parent] = y_parent;
+        } else {
+            parent[x_parent] = y_parent;
+            rank[y_parent]++;
         }
+    }
+    
+    int Kruskal(vector<vector<int>> &vec) {
 
-        // ✅ Min-heap: {weight, {node, parent}}
-        priority_queue<pair<int, pair<int, int>>, vector<pair<int, pair<int, int>>>, greater<>> pq;
-
-        vector<bool> vis(v, false);
-        vector<int> parent(v, -1); // Optional if you want to track MST edges
-
-        pq.push({0, {0, -1}});
-        long long sum = 0;
-
-        while (!pq.empty()) {
-            auto [wt, p] = pq.top();         // wt = weight
-            auto [node, par] = p;
-            pq.pop();
-
-            if (vis[node]) continue;
-
-            vis[node] = true;
-            sum += wt;
-            parent[node] = par;
-
-            for (auto &nbr : adj[node]) {
-                int adjNode = nbr.first;
-                int edgeWt = nbr.second;
-
-                if (!vis[adjNode]) {
-                    pq.push({edgeWt, {adjNode, node}});
-                }
+        int sum = 0;
+        for(auto &temp : vec) {
+            
+            int u = temp[0];
+            int v = temp[1];
+            int wt = temp[2];
+            
+            int parent_u = find(u);
+            int parent_v = find(v);
+            
+            if(parent_u != parent_v) {
+                Union(u, v);
+                sum += wt;
             }
+            
         }
 
         return sum;
+    }
+    
+    int minCostConnectPoints(vector<vector<int>>& points) {
+        int V = points.size();
+        parent.resize(V);
+	    rank.resize(V, 0);
+        	    
+	    for(int i = 0; i<V; i++)
+	        parent[i] = i;
+
+        vector<vector<int>> vec;
+        
+        for(int i = 0; i<V; i++) {
+            
+            for(int j = i+1; j<V; j++) {
+                
+                int x1 = points[i][0];
+                int y1 = points[i][1];
+                
+                int x2 = points[j][0];
+                int y2 = points[j][1];
+                
+                int d = abs(x1-x2) + abs(y1-y2);
+                
+                
+                vec.push_back({i, j, d});
+            }
+            
+        }
+        
+        auto lambda = [&](auto &v1, auto &v2) {
+            return v1[2] < v2[2];
+        };
+        
+        sort(begin(vec), end(vec), lambda);
+        
+        return Kruskal(vec);
     }
 };
