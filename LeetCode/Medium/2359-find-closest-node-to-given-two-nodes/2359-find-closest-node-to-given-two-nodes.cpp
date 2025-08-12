@@ -1,27 +1,42 @@
 class Solution {
 public:
-    void dfs(int current, int distance, const vector<int>& edges, vector<int>& distances) {
-        while (current != -1 && distances[current] == -1) {
-            distances[current] = distance++;
-            current = edges[current];
-        }
-    }
-
-    int closestMeetingNode(vector<int>& edges, int start1, int start2) {
-        int res = -1, Min_Of_Max = INT_MAX, n = edges.size();
-        vector<int> dist1(n, -1), dist2(n, -1);
-        dfs(start1, 0, edges, dist1);
-        dfs(start2, 0, edges, dist2);
-
-        for (int i = 0; i < n; i++) {
-            if (dist1[i] >= 0 && dist2[i] >= 0) {
-                int maxDist = max(dist1[i], dist2[i]);
-                if (maxDist < Min_Of_Max) {
-                    Min_Of_Max = maxDist;
-                    res = i;
+    void bfs(int node,unordered_map<int,vector<int>>&adj,vector<int>&dis){
+        queue<int>q;
+        dis[node]=0;
+        q.push(node);
+        while(!q.empty()){
+            int u=q.front();
+            q.pop();
+            for(int v:adj[u]){
+                if(dis[v]==-1){
+                    dis[v]=dis[u]+1;
+                    q.push(v);
                 }
             }
         }
-        return res;
+
+    }
+    int closestMeetingNode(vector<int>& nums, int node1, int node2) {
+        unordered_map<int,vector<int>>adj;
+        int n=nums.size();
+        for(int i=0;i<n;i++){
+            if(nums[i]!=-1){
+            adj[i].push_back(nums[i]);}
+        }
+        vector<int>dis1(n,-1),dis2(n,-1);
+        bfs(node1,adj,dis1);
+        bfs(node2,adj,dis2);
+        int ans=-1;
+        int minmaxdis=INT_MAX;
+        for(int i=0;i<n;i++){
+            if(dis1[i]!=-1&&dis2[i]!=-1){
+                int maxdis=max(dis1[i],dis2[i]);
+                if(maxdis<minmaxdis){
+                    minmaxdis=maxdis;
+                    ans=i;
+                }
+            }
+        }
+        return ans;
     }
 };
