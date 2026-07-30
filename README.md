@@ -7,4 +7,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/dhruvv1101/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/dhruvv1101/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/dhruvv1101/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
