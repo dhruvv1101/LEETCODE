@@ -12,4 +12,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/dhruvv1101/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 <!---LeetCode Topics End-->
