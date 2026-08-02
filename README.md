@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/dhruvv1101/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/dhruvv1101/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -37,10 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +52,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
