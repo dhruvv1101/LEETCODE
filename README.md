@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/dhruvv1101/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -37,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -44,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,8 +81,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1406-stone-game-iii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
 <!---LeetCode Topics End-->
