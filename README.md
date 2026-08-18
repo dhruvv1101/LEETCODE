@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/dhruvv1101/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
