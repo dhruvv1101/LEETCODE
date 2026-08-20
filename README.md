@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/dhruvv1101/LEETCODE/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -93,4 +94,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2029-stone-game-ix](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/2029-stone-game-ix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
 <!---LeetCode Topics End-->
