@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/0218-the-skyline-problem/) | Hard |
 | [0485-max-consecutive-ones](https://github.com/dhruvv1101/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/0218-the-skyline-problem/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -101,4 +103,28 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/3069-distribute-elements-into-two-arrays-i/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/0218-the-skyline-problem/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/0218-the-skyline-problem/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/0218-the-skyline-problem/) | Hard |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/0218-the-skyline-problem/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/0218-the-skyline-problem/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
