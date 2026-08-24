@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/dhruvv1101/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0217-contains-duplicate](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## String
@@ -38,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0217-contains-duplicate](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
