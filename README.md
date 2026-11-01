@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Easy/0217-contains-duplicate/) | Easy |
 | [0218-the-skyline-problem](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/0218-the-skyline-problem/) | Hard |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/dhruvv1101/LEETCODE/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0486-predict-the-winner](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Medium/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/dhruvv1101/LEETCODE/tree/main/Java/Hard/1406-stone-game-iii/) | Hard |
